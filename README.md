@@ -26,6 +26,7 @@ x = [1, 2, 3, 4, 5]
 
 y = [2, 3, 5, 7, 8]
 
+
 3) **Method**
 
 1. Assume a straight line y = m*x + c.
@@ -50,6 +51,7 @@ xy = sum(x.*y) = 91
 
 n  = 5
 
+
 4) **Results**
 
 Slope (m)     = 1.6
@@ -59,6 +61,7 @@ Intercept (c) = 0.2
 Best-fit line:
 y = 1.6*x + 0.2
 
+
 5) **Interpretation**
 
 - The line minimizes vertical errors from all points.
@@ -66,12 +69,14 @@ y = 1.6*x + 0.2
 - Slope m = 1.6 → y increases 1.6 for every 1 unit of x.
 - Intercept c = 0.2 → predicted y when x = 0.
 
+
 6) **Learning Outcomes**
 
 - Formulate y = m*x + c model
 - Apply Least Squares Fitting
 - Solve normal equations manually
 - Understand linear regression and data approximation
+
 
 7) **Conclusion**
 
