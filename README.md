@@ -30,9 +30,13 @@ xy = m*x2 + c*x1
 Where:
 
 x1 = sum(x) = 15
+
 y1 = sum(y) = 25
+
 x2 = sum(x.^2) = 55
+
 xy = sum(x.*y) = 91
+
 n  = 5
 
 4) Results
