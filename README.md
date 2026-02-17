@@ -19,16 +19,18 @@ This project implements the Least Squares Fitting Method to find the best-fit st
 The goal is to determine the slope (m) and intercept (c) that minimize the total squared error between the line and the data points.
 
 2) Data
+
 x = [1, 2, 3, 4, 5]
 
 y = [2, 3, 5, 7, 8]
 
-4) Method
+3) Method
+
 1. Assume a straight line y = m*x + c.
 
 2. Compute total squared error: S = Σ (y_i - (m*x_i + c))^2.
-3. 
-4. Solve the normal equations to find m and c:
+
+3. Solve the normal equations to find m and c:
 
 y1 = m*x1 + n*c
 
