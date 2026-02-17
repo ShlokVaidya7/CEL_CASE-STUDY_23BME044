@@ -13,6 +13,7 @@
 
 1) **Overview**
 
+
 This project implements the Least Squares Fitting Method to find the best-fit straight line for a given set of data points. The line is assumed in the form:
 
     y = m*x + c
