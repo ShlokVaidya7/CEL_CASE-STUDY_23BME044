@@ -3,10 +3,13 @@
 
 # Least Squares Fitting Method
 
-Author: Shlok Vaidya
-Roll No: 23BME044
-Course: Engineering Mathematics / Linear Algebra
-Tool Used: MATLAB
+**Author: Shlok Vaidya**
+
+**Roll No: 23BME044**
+
+**Course: Engineering Mathematics / Linear Algebra**
+
+**Tool Used: MATLAB**
 
 1) Overview
 This project implements the Least Squares Fitting Method to find the best-fit straight line for a given set of data points. The line is assumed in the form:
